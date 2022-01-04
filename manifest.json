@@ -1,0 +1,16 @@
+{
+    "name": "Page primary name",
+    "short_name": "Page secondary name (short)",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "green",
+    "background_color": "gray",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
